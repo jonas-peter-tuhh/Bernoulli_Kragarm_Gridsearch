@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+##Wichtig!
+##Wichtig!
+##!!!Achtung!!! Helpers.py Datei notwendig!!! siehe Helpers-respository --> |https://github.com/jonas-peter-tuhh/Helpers|
+#Helpers.py - Datei muss einen Ordner über entsprechenden PINN abgespeichert werden!
 """
 Created on Mon Aug 29 17:20:05 2022
 @author: Jonas Peter
